@@ -1,0 +1,15 @@
+This is a sample text file 
+
+Открыть файл:		type file.txt
+
+Новый файл:		Way 1 : type nul > file.txt
+			Way 2 : echo This is a sample text file > sample.txt
+			Way 3 : notepad myfile.txt <press enter>
+
+Изменить содержимое:	notepad file.txt
+
+Копировать:		copy file1.txt file1Copy.txt
+
+Переименовать:		rename file1.txt file1_rename.txt
+
+Удалить файл:		del file.txt
