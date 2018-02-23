@@ -1,15 +1,15 @@
 This is a sample text file 
 
-Открыть файл:		type file.txt
+РћС‚РєСЂС‹С‚СЊ С„Р°Р№Р»:		type file.txt
 
-Новый файл:		Way 1 : type nul > file.txt
+РќРѕРІС‹Р№ С„Р°Р№Р»:		Way 1 : type nul > file.txt
 			Way 2 : echo This is a sample text file > sample.txt
 			Way 3 : notepad myfile.txt <press enter>
 
-Изменить содержимое:	notepad file.txt
+РР·РјРµРЅРёС‚СЊ СЃРѕРґРµСЂР¶РёРјРѕРµ:	notepad file.txt
 
-Копировать:		copy file1.txt file1Copy.txt
+РљРѕРїРёСЂРѕРІР°С‚СЊ:		copy file1.txt file1Copy.txt
 
-Переименовать:		rename file1.txt file1_rename.txt
+РџРµСЂРµРёРјРµРЅРѕРІР°С‚СЊ:		rename file1.txt file1_rename.txt
 
-Удалить файл:		del file.txt
+РЈРґР°Р»РёС‚СЊ С„Р°Р№Р»:		del file.txt
